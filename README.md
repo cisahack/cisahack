@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carolyn Isahack</h1>
-<h3 align="center">A Web Developer from Miami</h3>
+<h3 align="center">A Web Developer :computer: from Miami</h3>
 
 - 🔭 I’m currently working on **my portfolio and virtual closet website**
 
