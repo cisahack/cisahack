@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Carolyn Isahack</h1>
-<h3 align="center">A Web Developer :computer: from Miami</h3>
+<h1 align="center"> Hi, I'm Carolyn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"</h1>
+<h3 align="center">A Web Developer :computer: from Miami :palm_tree:</h3>
 
-- 🔭 I’m currently working on **my portfolio and virtual closet website**
+- 🔭 I’m currently working on **my portfolio 	:file_folder: and virtual closet website :dress:**
 
 - 📫 How to reach me **carolynisahack@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/carolynisahack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="carolynisahack" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/carolynisahack" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="my-linkedin" height="30" width="30" /></a>
+<a href="https://www.youtube.com/user/CarolynIsahack/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" alt="my-youtube" height="25" width="25" /></a>  
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
