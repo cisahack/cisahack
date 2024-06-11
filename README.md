@@ -8,7 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/carolynisahack" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="my-linkedin" height="30" width="30" /></a>
-<a href="https://www.youtube.com/user/CarolynIsahack/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" alt="my-youtube" height="25" width="25" /></a>  
   
 </p>
 
