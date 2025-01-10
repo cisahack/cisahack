@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Carolyn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"</h1>
-<h3 align="center">An Associate Software Engineer :computer: in Palm Beach County, FL :palm_tree:</h3>
+<h3 align="center">An Associate Software Engineer :computer: in Denver, CO &#9968</h3>
 
-- ⌨️  I’m currently learning Artificial Intelligence
+- ⌨️  I’m currently learning Computer Science
 
 - 💌 How to reach me **carolynisahack@gmail.com**
 
